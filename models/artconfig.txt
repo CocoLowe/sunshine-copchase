@@ -1,0 +1,27 @@
+Polis Skinleri
+
+AddCharModel(310, 21010, lssd_sheriff1.dff, lssd_sheriff1.txd);
+AddCharModel(310, 21011, lssd_sheriff2.dff, lssd_sheriff2.txd);
+AddCharModel(310, 21012, lssd_sheriff3.dff, lssd_sheriff3.txd);
+
+AddCharModel(211, 21013, lssd_sheriff4_famele.dff, lssd_sheriff4_famele.txd);
+
+AddCharModel(310, 21014, lspd_police1.dff, lspd_police1.txd);
+AddCharModel(310, 21015, lspd_police2.dff, lspd_police2.txd);
+AddCharModel(310, 21016, lspd_police3.dff, lspd_police3.txd);
+AddCharModel(310, 21017, lspd_police4.dff, lspd_police4.txd);
+
+AddCharModel(310, 21018, lspd_marry1.dff, lspd_marry1.txd);
+
+AddCharModel(211, 21019, lspd_famele1.dff, lspd_famele1.txd); 
+AddCharModel(211, 21020, lspd_famele2.dff, lspd_famele2.txd); 
+
+Suspect Skinleri
+
+AddCharModel(21, 21030, suspect1.dff, suspect1.txd);
+AddCharModel(21, 21031, suspect2.dff, suspect2.txd);
+AddCharModel(21, 21032, suspect3.dff, suspect3.txd);
+AddCharModel(21, 21033, suspect4.dff, suspect4.txd);
+AddCharModel(21, 21034, suspect5.dff, suspect5.txd);
+AddCharModel(21, 21035, suspect6.dff, suspect6.txd);
+AddCharModel(21, 21036, suspect7.dff, suspect7.txd);
